@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\acer\.gradle\caches\transforms-3\5fc282ab798a5a279002dc5cd82c2191\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\acer\.gradle\caches\transforms-3\135ef16aa0d4ae57c480b3fdabac6160\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\acer\.gradle\caches\transforms-3\384db42d04da9070e4fcb6b21822dac3\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\acer\.gradle\caches\transforms-3\188e2a9876bc92f611c8e3863715709c\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\acer\.gradle\caches\transforms-3\7360ee3be620304ea2cf0dd922d59195\transformed\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] C:\Users\acer\.gradle\caches\transforms-3\23be7352a42c4ff25fdfd9548be882ac\transformed\jetified-tensorflow-lite-2.5.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\acer\.gradle\caches\transforms-3\b134ce87f4d6e97abfbe3b6c2ffcd8e3\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\acer\.gradle\caches\transforms-3\761c1c020bf227b046161bd6d29da39b\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\acer\.gradle\caches\transforms-3\7b2c1d620e3f79f046449a5e81ba517b\transformed\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\acer\.gradle\caches\transforms-3\3c98f34e51b164694e5da088a6017b44\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\91db841ef01ff96709cad8b3c9b78a6a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\7068b9fc9ace86d7b2931e0af1b45077\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\26f3ecf3cc00439076f9266875d5212e\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\8ac847a8cb92b86d5183be60d275ed5b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\77208e0c53ca939afec3d94981135f40\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\9e55b23f865ed0dbc1ed9c42fa2eecd9\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\acer\.gradle\caches\transforms-3\cb0963285ae9d1b748f8c1fbea448c31\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\62434408e5861f4e920a1e074e7a9bb5\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\acer\.gradle\caches\transforms-3\206739f36bae8a191a8cdf9082eb3bff\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\0ae84adf6019e0bddc624e65cbf960ea\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\acer\.gradle\caches\transforms-3\a491c625012117e1170b232b8c28fe18\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\acer\.gradle\caches\transforms-3\92ab9838bc4eb3c87ecdcc0334b8a6be\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\acer\.gradle\caches\transforms-3\8e2d7efd7e571d0ead968bb6203628e4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\1ead39aac71cfaa4bf123e6b79466196\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\acer\.gradle\caches\transforms-3\7cc8479d87d16eb78b7da742abb7af91\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\acer\.gradle\caches\transforms-3\e21ef3bcf6dca35da4b0f4a1245f4f7d\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\acer\.gradle\caches\transforms-3\3daa2ff21162712a90b02abbf76e94c9\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\436e77451ab154d7957a0b18a6eb9cc9\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\3cce3133ec2ffc57b53710abf38fe97a\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:4:11-65
+		INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml
+		ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml
+		ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:6:3-15
+INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:6:3-15
+INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:6:3-15
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\acer\.gradle\caches\transforms-3\5fc282ab798a5a279002dc5cd82c2191\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\acer\.gradle\caches\transforms-3\5fc282ab798a5a279002dc5cd82c2191\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\acer\.gradle\caches\transforms-3\135ef16aa0d4ae57c480b3fdabac6160\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\acer\.gradle\caches\transforms-3\135ef16aa0d4ae57c480b3fdabac6160\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\acer\.gradle\caches\transforms-3\384db42d04da9070e4fcb6b21822dac3\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\acer\.gradle\caches\transforms-3\384db42d04da9070e4fcb6b21822dac3\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\acer\.gradle\caches\transforms-3\188e2a9876bc92f611c8e3863715709c\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\acer\.gradle\caches\transforms-3\188e2a9876bc92f611c8e3863715709c\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\acer\.gradle\caches\transforms-3\7360ee3be620304ea2cf0dd922d59195\transformed\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\acer\.gradle\caches\transforms-3\7360ee3be620304ea2cf0dd922d59195\transformed\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] C:\Users\acer\.gradle\caches\transforms-3\23be7352a42c4ff25fdfd9548be882ac\transformed\jetified-tensorflow-lite-2.5.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] C:\Users\acer\.gradle\caches\transforms-3\23be7352a42c4ff25fdfd9548be882ac\transformed\jetified-tensorflow-lite-2.5.0\AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\acer\.gradle\caches\transforms-3\b134ce87f4d6e97abfbe3b6c2ffcd8e3\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\acer\.gradle\caches\transforms-3\b134ce87f4d6e97abfbe3b6c2ffcd8e3\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\acer\.gradle\caches\transforms-3\761c1c020bf227b046161bd6d29da39b\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\acer\.gradle\caches\transforms-3\761c1c020bf227b046161bd6d29da39b\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\acer\.gradle\caches\transforms-3\7b2c1d620e3f79f046449a5e81ba517b\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\acer\.gradle\caches\transforms-3\7b2c1d620e3f79f046449a5e81ba517b\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\acer\.gradle\caches\transforms-3\3c98f34e51b164694e5da088a6017b44\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\acer\.gradle\caches\transforms-3\3c98f34e51b164694e5da088a6017b44\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\91db841ef01ff96709cad8b3c9b78a6a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\91db841ef01ff96709cad8b3c9b78a6a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\7068b9fc9ace86d7b2931e0af1b45077\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\7068b9fc9ace86d7b2931e0af1b45077\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\26f3ecf3cc00439076f9266875d5212e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\26f3ecf3cc00439076f9266875d5212e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\8ac847a8cb92b86d5183be60d275ed5b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\8ac847a8cb92b86d5183be60d275ed5b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\77208e0c53ca939afec3d94981135f40\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\77208e0c53ca939afec3d94981135f40\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\9e55b23f865ed0dbc1ed9c42fa2eecd9\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\9e55b23f865ed0dbc1ed9c42fa2eecd9\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\acer\.gradle\caches\transforms-3\cb0963285ae9d1b748f8c1fbea448c31\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\acer\.gradle\caches\transforms-3\cb0963285ae9d1b748f8c1fbea448c31\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\62434408e5861f4e920a1e074e7a9bb5\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\62434408e5861f4e920a1e074e7a9bb5\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\acer\.gradle\caches\transforms-3\206739f36bae8a191a8cdf9082eb3bff\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\acer\.gradle\caches\transforms-3\206739f36bae8a191a8cdf9082eb3bff\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\0ae84adf6019e0bddc624e65cbf960ea\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\0ae84adf6019e0bddc624e65cbf960ea\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\acer\.gradle\caches\transforms-3\a491c625012117e1170b232b8c28fe18\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\acer\.gradle\caches\transforms-3\a491c625012117e1170b232b8c28fe18\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\acer\.gradle\caches\transforms-3\92ab9838bc4eb3c87ecdcc0334b8a6be\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\acer\.gradle\caches\transforms-3\92ab9838bc4eb3c87ecdcc0334b8a6be\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\acer\.gradle\caches\transforms-3\8e2d7efd7e571d0ead968bb6203628e4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\acer\.gradle\caches\transforms-3\8e2d7efd7e571d0ead968bb6203628e4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\1ead39aac71cfaa4bf123e6b79466196\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\1ead39aac71cfaa4bf123e6b79466196\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\acer\.gradle\caches\transforms-3\7cc8479d87d16eb78b7da742abb7af91\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\acer\.gradle\caches\transforms-3\7cc8479d87d16eb78b7da742abb7af91\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\acer\.gradle\caches\transforms-3\e21ef3bcf6dca35da4b0f4a1245f4f7d\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\acer\.gradle\caches\transforms-3\e21ef3bcf6dca35da4b0f4a1245f4f7d\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\acer\.gradle\caches\transforms-3\3daa2ff21162712a90b02abbf76e94c9\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\acer\.gradle\caches\transforms-3\3daa2ff21162712a90b02abbf76e94c9\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\436e77451ab154d7957a0b18a6eb9cc9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\436e77451ab154d7957a0b18a6eb9cc9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\3cce3133ec2ffc57b53710abf38fe97a\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\3cce3133ec2ffc57b53710abf38fe97a\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:6:3-15
+INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:6:3-15
+	android:targetSdkVersion
+		INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml
+		ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:6:3-15
+		INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml
+		ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:6:3-15
+		MERGED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:6:3-15
+		INJECTED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:8:3-24:17
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\acer\.gradle\caches\transforms-3\5fc282ab798a5a279002dc5cd82c2191\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\acer\.gradle\caches\transforms-3\5fc282ab798a5a279002dc5cd82c2191\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\acer\.gradle\caches\transforms-3\135ef16aa0d4ae57c480b3fdabac6160\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\acer\.gradle\caches\transforms-3\135ef16aa0d4ae57c480b3fdabac6160\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\acer\.gradle\caches\transforms-3\7360ee3be620304ea2cf0dd922d59195\transformed\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\acer\.gradle\caches\transforms-3\7360ee3be620304ea2cf0dd922d59195\transformed\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] C:\Users\acer\.gradle\caches\transforms-3\23be7352a42c4ff25fdfd9548be882ac\transformed\jetified-tensorflow-lite-2.5.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] C:\Users\acer\.gradle\caches\transforms-3\23be7352a42c4ff25fdfd9548be882ac\transformed\jetified-tensorflow-lite-2.5.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\acer\.gradle\caches\transforms-3\b134ce87f4d6e97abfbe3b6c2ffcd8e3\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\acer\.gradle\caches\transforms-3\b134ce87f4d6e97abfbe3b6c2ffcd8e3\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\acer\.gradle\caches\transforms-3\cb0963285ae9d1b748f8c1fbea448c31\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\acer\.gradle\caches\transforms-3\cb0963285ae9d1b748f8c1fbea448c31\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\acer\.gradle\caches\transforms-3\8e2d7efd7e571d0ead968bb6203628e4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\acer\.gradle\caches\transforms-3\8e2d7efd7e571d0ead968bb6203628e4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\acer\.gradle\caches\transforms-3\cb0963285ae9d1b748f8c1fbea448c31\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:13:11-37
+	android:label
+		ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:11:11-43
+	tools:ignore
+		ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:15:11-50
+	android:roundIcon
+		ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:12:11-56
+	android:icon
+		ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:10:11-45
+	android:allowBackup
+		ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:9:11-37
+	android:theme
+		ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:14:11-42
+activity#org.tensorflow.lite.codelabs.digitclassifier.MainActivity
+ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:17:5-23:16
+	android:exported
+		ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:18:15-38
+	android:name
+		ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:17:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:19:7-22:23
+action#android.intent.action.MAIN
+ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:20:9-60
+	android:name
+		ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:20:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:21:9-68
+	android:name
+		ADDED from D:\Games\examples-master\examples-master\lite\codelabs\digit_classifier\android\start\app\src\main\AndroidManifest.xml:21:19-66
+activity#com.divyanshu.draw.activity.DrawingActivity
+ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\acer\.gradle\caches\transforms-3\5fc282ab798a5a279002dc5cd82c2191\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:12:9-14:66
+	android:theme
+		ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\acer\.gradle\caches\transforms-3\5fc282ab798a5a279002dc5cd82c2191\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\acer\.gradle\caches\transforms-3\5fc282ab798a5a279002dc5cd82c2191\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:13:13-71
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\acer\.gradle\caches\transforms-3\b134ce87f4d6e97abfbe3b6c2ffcd8e3\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\acer\.gradle\caches\transforms-3\b134ce87f4d6e97abfbe3b6c2ffcd8e3\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\acer\.gradle\caches\transforms-3\b134ce87f4d6e97abfbe3b6c2ffcd8e3\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58
